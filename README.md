@@ -23,6 +23,12 @@ TutorQClientConfig
 
 Points the client towards the shared directories used to communicate with the central TutorQ program.
 
+=================
+Compilation Notes
+=================
+
+Compile for x86, the program throws errors when compiled for x64. Open the projects from the .sln files and this should already be preconfigured.
+
 ### Credits
 
 Created by David Straayer. Being maintained by Joshua Ogden.
